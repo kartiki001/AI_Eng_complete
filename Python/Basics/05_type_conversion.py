@@ -1,0 +1,5 @@
+x = input("enter a number: ")
+print(f" interger conversion of {x} is : {int(x)}")
+print(f" float conversion of {x} is : {float(x)}")
+print(f" string conversion of {x} is : {str(x)}")
+print(f" boolean conversion of {x} is : {bool(int(x))}")
